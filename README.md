@@ -1,6 +1,6 @@
 # 🔍 Girls in CTF Forensic Writeup 🕵️‍♂️  
 
-*A deep dive into forensic analysis challenges from GCTF!*  
+*A deep dive into forensic analysis challenges from Girls in CTF!*  
 
 This repository documents my approach to solving forensic challenges in the **Girls in CTF** competition. It includes step-by-step investigations, forensic tools used, and methodologies applied to uncover hidden artifacts and retrieve sensitive data.
 
