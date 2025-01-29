@@ -2,7 +2,9 @@
 
 *A deep dive into forensic analysis challenges from GCTF!*  
 
-This repository documents my approach to solving forensic challenges in the **GCTF CTF** competition. It includes step-by-step investigations, forensic tools used, and methodologies applied to uncover hidden artifacts and retrieve sensitive data.  
+This repository documents my approach to solving forensic challenges in the **GCTF CTF** competition. It includes step-by-step investigations, forensic tools used, and methodologies applied to uncover hidden artifacts and retrieve sensitive data.
+
+🛡 **Written by:** **Dark Phoenix** 🔥
 
 ## 🚀 What’s Inside?  
 - 🖥 **MFT Analysis** – Exploring `$MFT` records using FTK Imager.  
