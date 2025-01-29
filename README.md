@@ -1,4 +1,4 @@
-# 🔍 GCTF Forensic Writeup 🕵️‍♂️  
+# 🔍 Girls in CTF Forensic Writeup 🕵️‍♂️  
 
 *A deep dive into forensic analysis challenges from GCTF!*  
 
